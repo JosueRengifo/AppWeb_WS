@@ -1,0 +1,9 @@
+C:\Users\Unicomfacauca\source\repos\AppWEB_WS\AppWEB_WS\bin\AppWEB_WS.dll.config
+C:\Users\Unicomfacauca\source\repos\AppWEB_WS\AppWEB_WS\bin\AppWEB_WS.dll
+C:\Users\Unicomfacauca\source\repos\AppWEB_WS\AppWEB_WS\bin\AppWEB_WS.pdb
+C:\Users\Unicomfacauca\source\repos\AppWEB_WS\AppWEB_WS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Unicomfacauca\source\repos\AppWEB_WS\AppWEB_WS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Unicomfacauca\source\repos\AppWEB_WS\AppWEB_WS\obj\Debug\AppWEB_WS.csprojResolveAssemblyReference.cache
+C:\Users\Unicomfacauca\source\repos\AppWEB_WS\AppWEB_WS\obj\Debug\AppWEB_WS.csproj.CoreCompileInputs.cache
+C:\Users\Unicomfacauca\source\repos\AppWEB_WS\AppWEB_WS\obj\Debug\AppWEB_WS.dll
+C:\Users\Unicomfacauca\source\repos\AppWEB_WS\AppWEB_WS\obj\Debug\AppWEB_WS.pdb
